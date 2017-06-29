@@ -1,0 +1,37 @@
+{
+  "name": "allur",
+  "version": "1.0.0",
+  "description": "Beautiful minimalistic text editor protecting your ideas.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamka02sk/allur.git"
+  },
+  "keywords": [
+    "allur",
+    "minimalistic",
+    "beautiful",
+    "simple",
+    "editor"
+  ],
+  "author": "Samuel Illo (lamka02sk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lamka02sk/allur/issues"
+  },
+  "homepage": "https://github.com/lamka02sk/allur#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.5.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean-css": "^3.5.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-import": "0.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "reset-css": "^2.2.0"
+  }
+}
